@@ -5,3 +5,4 @@ venv/
 *.ipynb_checkpoints
 .DS_Store
 credentials.py
+seeking-alpha-scraper/src/config/settings.py
